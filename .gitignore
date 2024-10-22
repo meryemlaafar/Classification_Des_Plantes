@@ -1,0 +1,18 @@
+# Ignorer les fichiers temporaires
+*.log
+*.tmp
+
+# Ignorer les dossiers node_modules et build
+node_modules/
+build/
+
+# Ignorer les fichiers de configuration spécifiques à l'IDE
+.vscode/
+.idea/
+
+# Ignorer les fichiers générés
+*.pyc
+*.class
+.DS_Store
+venv/
+*.ipynb_checkpoints/
